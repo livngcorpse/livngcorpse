@@ -9,15 +9,19 @@
 
 <table>
 <tr>
-<td>
+<td valign="top">
 
 <img src="https://github-readme-stats.shion.dev/api?username=livngcorpse&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
 
 </td>
 
-<td>
+<td width="25"></td>
 
-<img src="https://i.pinimg.com/736x/3c/aa/15/3caa150f3ed837a3655b9a81357cf915.jpg" width="300">
+<td valign="top" align="center">
+
+<img src="https://i.pinimg.com/736x/3c/aa/15/3caa150f3ed837a3655b9a81357cf915.jpg"
+     width="300"
+     style="mix-blend-mode: multiply;">
 
 </td>
 </tr>
