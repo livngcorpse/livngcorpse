@@ -1,114 +1,144 @@
 <div align="center">
 
-`README.md`
+<img src="https://img.shields.io/badge/-%3C%2F%3E%20README.md-0d1117?style=flat-square&color=0d1117&labelColor=0d1117" height="20"/>
 
-</div>
+<br><br>
 
-<div align="center">
-
-[![Developer](https://img.shields.io/badge/-Developer-0d1117?style=for-the-badge&logo=codeforces&logoColor=white)](#)
-[![India](https://img.shields.io/badge/-India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Open Source](https://img.shields.io/badge/-Open%20Source-0d1117?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](#)
+<img src="https://img.shields.io/badge/-%3C%2F%3E%20Developer-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<img src="https://img.shields.io/badge/-📍%20India-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<img src="https://img.shields.io/badge/-🧑‍🤝‍🧑%20Open%20Source-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<img src="https://img.shields.io/badge/-⚡%20Always%20Learning-58a6ff?style=for-the-badge&labelColor=0d1117&color=0d1117&logoColor=58a6ff" />
 
 </div>
 
 <br>
 
-## 🧑‍💻 About Me
+<table width="100%" style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px;">
+<tr>
+<td>
 
-Just a **depressed coder** trying to make sense of this broken world through code.
+### 🧑 About Me
 
-I build things, break things, cry over bugs, and repeat.
+Just a **<span style="color:#a78bfa">depressed coder</span>** trying to make sense of this broken world through code.
+
+I build things, break things, cry over bugs,
+and repeat.
 
 Some days I feel like I'm improving.
-Other days I just stare at the screen and wonder what I'm doing.
+Other days I just stare at the screen and
+wonder what I'm doing.
 
 But hey, we keep coding. That's all we can do.
+
+</td>
+<td align="center" width="300">
+
+<img width="260" alt="crying coder puddle illustration" src="./assets/crying-coder.png" />
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ## `</>` Skills & Expertise
 
+<table width="100%">
+<tr>
+<td width="55%" valign="top" style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px;">
+
 ### 🛠️ Tech Arsenal
 
 **Languages**
-![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logoColor=black)
-![C](https://img.shields.io/badge/-C-1e1e2e?style=flat-square)
-![C++](https://img.shields.io/badge/-C++-1e1e2e?style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-1e1e2e?style=flat-square)
-![Bash](https://img.shields.io/badge/-Bash-1e1e2e?style=flat-square)
+`Python` `JavaScript` `C` `C++` `SQL` `Bash`
 
 **Web Development**
-![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS-1e1e2e?style=flat-square)
-![React](https://img.shields.io/badge/-React-1e1e2e?style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-1e1e2e?style=flat-square)
-![Django](https://img.shields.io/badge/-Django-1e1e2e?style=flat-square)
+`HTML` `CSS` `React` `Node.js` `Django`
 
 **Databases**
-![MySQL](https://img.shields.io/badge/-MySQL-1e1e2e?style=flat-square)
-![SQLite](https://img.shields.io/badge/-SQLite-1e1e2e?style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-1e1e2e?style=flat-square)
+`MySQL` `SQLite` `MongoDB`
 
 **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-1e1e2e?style=flat-square)
-![VS Code](https://img.shields.io/badge/-VS%20Code-1e1e2e?style=flat-square)
-![Linux](https://img.shields.io/badge/-Linux-1e1e2e?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-1e1e2e?style=flat-square)
+`Git` `GitHub` `VS Code` `Linux` `Docker`
 
 **Concepts**
 `DSA` `OOP` `REST APIs` `Problem Solving`
 
-<br>
+</td>
+<td width="45%" valign="top">
+
+<table width="100%" style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px;">
+<tr><td>
 
 ```bash
 $ whoami
 > building in public, failing in private.
 ```
 
+</td></tr>
+</table>
+
+<br>
+
+<table width="100%" style="background-color:#0d1117; border:1px solid #30363d; border-radius:12px;">
+<tr><td>
+
 ### ⚡ Current Focus
 
-- 🚀 Building full-stack projects
-- 🤖 Exploring AI & ML
-- 🌱 Contributing to open-source
-- 📈 Improving problem solving skills
+- Building full-stack projects
+- Exploring AI & ML
+- Contributing to open-source
+- Improving problem solving skills
+
+</td></tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ## 🔗 Connect
 
-[![GitHub](https://img.shields.io/badge/-GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter / X](https://img.shields.io/badge/-Twitter%20%2F%20X-1e1e2e?style=for-the-badge&logo=x&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/-Email-e34c26?style=for-the-badge&logo=gmail&logoColor=white)](#)
+<p>
+<a href="#"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Twitter%20%2F%20X-0d1117?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0d1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" /></a>
+</p>
 
 <br>
 
-> ```
-> while(true) {
->     sleep is just death without commitment;
->     hope is a buggy loop;
->     code is the only thing that makes sense.
-> }
-> ```
+<table width="100%" style="background-color:#0d1117; border-left:4px solid #7ee787;">
+<tr><td>
+
+```
+while(true) {
+    sleep is just death without commitment;
+    hope is a buggy loop;
+    code is the only thing that makes sense.
+}
+```
+
+</td></tr>
+</table>
 
 <br>
 
 ## 📊 Contribution
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=livngcorpse&theme=github-dark)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&bg_color=0d1117&color=7ee787&line=a78bfa&point=ffffff" width="100%" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=livngcorpse&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d" width="100%" />
 
-<br>
+<br><br>
 
 ---
 
 <div align="center">
 
-Made with ❤️ and lots of coffee &nbsp;•&nbsp; **Keep Coding 🚀**
+Made with ❤️ and lots of coffee &nbsp;&nbsp;&nbsp;&nbsp; <b><span style="color:#58a6ff">Keep Coding 🚀</span></b>
 
 </div>
