@@ -17,7 +17,7 @@
 
 <td>
 
-<img src="https://drive.google.com/file/d/137Kvrc-L7IziUewqFEtuvdqwhZ0_k0vG/view?usp=sharing" width="300">
+<img src="https://res.cloudinary.com/t3gu4se2/image/upload/v1786515753/3caa150f3ed837a3655b9a81357cf915.png" width="300">
 
 </td>
 </tr>
