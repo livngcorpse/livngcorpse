@@ -1,38 +1,114 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ExnppCtZn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/livngcorpse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:livngcorpse@gmail.com) 
+`README.md`
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+</div>
 
-# 📊 GitHub Stats:
+<div align="center">
 
-<table>
-<tr>
-<td>
+[![Developer](https://img.shields.io/badge/-Developer-0d1117?style=for-the-badge&logo=codeforces&logoColor=white)](#)
+[![India](https://img.shields.io/badge/-India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Open Source](https://img.shields.io/badge/-Open%20Source-0d1117?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](#)
 
-<img src="https://github-readme-stats.shion.dev/api?username=livngcorpse&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-
-</td>
-
-<td>
-
-<img src="https://res.cloudinary.com/t3gu4se2/image/upload/v1786515753/3caa150f3ed837a3655b9a81357cf915.png" width="300">
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=livngcorpse&theme=dark&hide_border=false">
+## 🧑‍💻 About Me
 
-<br/>
+Just a **depressed coder** trying to make sense of this broken world through code.
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=livngcorpse&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+I build things, break things, cry over bugs, and repeat.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Some days I feel like I'm improving.
+Other days I just stare at the screen and wonder what I'm doing.
 
+But hey, we keep coding. That's all we can do.
 
+<br>
 
+## `</>` Skills & Expertise
+
+### 🛠️ Tech Arsenal
+
+**Languages**
+![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logoColor=black)
+![C](https://img.shields.io/badge/-C-1e1e2e?style=flat-square)
+![C++](https://img.shields.io/badge/-C++-1e1e2e?style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-1e1e2e?style=flat-square)
+![Bash](https://img.shields.io/badge/-Bash-1e1e2e?style=flat-square)
+
+**Web Development**
+![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS-1e1e2e?style=flat-square)
+![React](https://img.shields.io/badge/-React-1e1e2e?style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-1e1e2e?style=flat-square)
+![Django](https://img.shields.io/badge/-Django-1e1e2e?style=flat-square)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/-MySQL-1e1e2e?style=flat-square)
+![SQLite](https://img.shields.io/badge/-SQLite-1e1e2e?style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1e1e2e?style=flat-square)
+
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-1e1e2e?style=flat-square)
+![VS Code](https://img.shields.io/badge/-VS%20Code-1e1e2e?style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-1e1e2e?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-1e1e2e?style=flat-square)
+
+**Concepts**
+`DSA` `OOP` `REST APIs` `Problem Solving`
+
+<br>
+
+```bash
+$ whoami
+> building in public, failing in private.
+```
+
+### ⚡ Current Focus
+
+- 🚀 Building full-stack projects
+- 🤖 Exploring AI & ML
+- 🌱 Contributing to open-source
+- 📈 Improving problem solving skills
+
+<br>
+
+## 🔗 Connect
+
+[![GitHub](https://img.shields.io/badge/-GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter / X](https://img.shields.io/badge/-Twitter%20%2F%20X-1e1e2e?style=for-the-badge&logo=x&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/-Email-e34c26?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+<br>
+
+> ```
+> while(true) {
+>     sleep is just death without commitment;
+>     hope is a buggy loop;
+>     code is the only thing that makes sense.
+> }
+> ```
+
+<br>
+
+## 📊 Contribution
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=livngcorpse&theme=github-dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llivngcorpse&show_icons=true&theme=dark)
+
+<br>
+
+---
+
+<div align="center">
+
+Made with ❤️ and lots of coffee &nbsp;•&nbsp; **Keep Coding 🚀**
+
+</div>
