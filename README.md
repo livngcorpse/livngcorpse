@@ -33,7 +33,7 @@ But hey, we keep coding. That's all we can do.
 </td>
 <td align="center" width="300">
 
-<img width="260" alt="crying coder puddle illustration" src="crying-coder.png" />
+<img width="260" alt="crying coder puddle illustration" src="crying-coder1.png" />
 
 </td>
 </tr>
