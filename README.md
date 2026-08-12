@@ -19,7 +19,7 @@
 
 <td valign="top" align="center">
 
-<img src="[https://i.pinimg.com/736x/3c/aa/15/3caa150f3ed837a3655b9a81357cf915.jpg](https://pin.it/5ir55weaI)"
+<img src="https://pin.it/6ccuU8JFA"
      width="300"
      style="mix-blend-mode: multiply;">
 
