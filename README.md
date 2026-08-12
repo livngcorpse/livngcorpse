@@ -102,7 +102,7 @@ $ whoami
 ## 🔗 Connect
 
 <p>
-<a href="#"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://github.com/livngcorpse"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Twitter%20%2F%20X-0d1117?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0d1117" /></a>
@@ -129,9 +129,9 @@ while(true) {
 
 ## 📊 Contribution
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&bg_color=0d1117&color=7ee787&line=a78bfa&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=livngcorpse&theme=github-compact&bg_color=0d1117&color=7ee787&line=a78bfa&point=ffffff" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=livngcorpse&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d" width="100%" />
 
 <br><br>
 
