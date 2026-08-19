@@ -3,6 +3,7 @@
 <img src="https://img.shields.io/badge/-%3C%2F%3E%20Developer-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
 <img src="https://img.shields.io/badge/-📍%20India-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
 <img src="https://img.shields.io/badge/-🧑‍🤝‍🧑%20Open%20Source-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<img src="https://img.shields.io/badge/-⚡%20Always%20Learning-58a6ff?style=for-the-badge&labelColor=0d1117&color=0d1117" />
 
 </div>
 
@@ -26,7 +27,14 @@
 
 ## `</>` Skills & Expertise
 
-<table>
+## `</>` Skills & Expertise
+
+<table width="100%">
+<tr>
+<td colspan="2">
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBTAA7" width="1200" height="1" alt="" />
+</td>
+</tr>
 <tr>
 <td width="55%" valign="top">
 
