@@ -11,6 +11,8 @@
 
 ### 🧑 About Me
 
+<img width="180" align="right" alt="crying coder puddle illustration" src="crying-coder1.png" />
+
 > Just a **depressed coder** trying to make sense of this broken world through code.
 >
 > I build things, break things, cry over bugs, and repeat.
@@ -18,8 +20,6 @@
 > Some days I feel like I'm improving. Other days I just stare at the screen and wonder what I'm doing.
 >
 > But hey, we keep coding. That's all we can do.
-
-<img width="220" align="right" alt="crying coder puddle illustration" src="crying-coder1.png" />
 
 <br clear="right">
 
