@@ -127,18 +127,3 @@ while(true) {
 
 <br>
 
-## 📊 Contribution
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=livngcorpse&theme=github-compact&bg_color=0d1117&color=7ee787&line=a78bfa&point=ffffff" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=livngcorpse&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d" width="100%" />
-
-<br><br>
-
----
-
-<div align="center">
-
-Made with ❤️ and lots of coffee &nbsp;&nbsp;&nbsp;&nbsp; <b><span style="color:#58a6ff">Keep Coding 🚀</span></b>
-
-</div>
