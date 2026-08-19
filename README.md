@@ -10,7 +10,7 @@
 
 ### 🧑 About Me
 
-<img width="180" align="right" alt="crying coder puddle illustration" src="crying-coder1.png" />
+<img width="180" align="right" alt="crying coder puddle illustration" src="https://i.postimg.cc/BnzYQNjr/crying-coder1.png" />
 
 > Just a **depressed coder** trying to make sense of this broken world through code.
 >
