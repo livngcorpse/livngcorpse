@@ -85,10 +85,7 @@ $ whoami
 
 ### ⚡ Current Focus
 
-- Building full-stack projects
-- Exploring AI & ML
-- Contributing to open-source
-- Improving problem solving skills
+-Playing games
 
 </td></tr>
 </table>
